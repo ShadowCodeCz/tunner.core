@@ -33,5 +33,5 @@ setup(
     long_description_content_type='text/markdown',
     classifiers=classifiers,
     keywords='command executor',
-    install_requires=["generic_design_patterns", "yapsy",],
+    install_requires=["generic_design_patterns", "yapsy"],
 )
